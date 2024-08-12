@@ -1,0 +1,265 @@
+nav {
+    display: flex;
+    background-color: black;
+    color: rgb(180, 144, 144);
+    justify-content: space-around;
+    padding: 15px;
+    font-size: 18px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+#items {
+    text-decoration: none;
+    text-align: center;
+    color: rgb(180, 144, 144);
+}
+#items:hover {
+    opacity: .75;
+}
+#Resume {
+    font-size: 20px;
+    font-family: Georgia;
+    font-weight: bold;
+}
+.different {
+    display: flex;
+    background-color: transparent;
+    justify-content: space-evenly;
+    border: 10px solid blue;
+    border-radius: 20px;
+    margin-left: 225px;
+    margin-right: 250px;
+}
+#img1 {
+    width: 200px;
+    height: 150px;
+}
+#doublep {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    color: black;
+    background-color: white;
+    padding: 15px;
+}
+div{
+    color: white;
+}
+#firstp {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     font-size: 32px;
+     font-weight: bold;
+}
+
+.second_div {
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    font-size: 15px;
+    align-items: center;
+    margin-bottom: -10px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+#h6 {
+    font-size: 28px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#p1 {
+    margin-top: -10px;
+}
+#p2 {
+    margin-top: -5px;
+}
+h1 {
+    text-align: center;
+    background-color: navy;
+    color: lightblue;
+    padding: 15px;
+    margin: 15px;
+}
+#ptags1 {
+    margin-left: 210px;
+    margin-top: -140px;
+    color: black;
+    border: 10px solid transparent;
+    margin-right: 790px;
+}
+#ptags2 {
+    margin-left: 660px;
+    margin-top: -160px;
+    color: black;
+    border: 10px solid transparent;
+    margin-right: 375px;
+}
+#ptags3 {
+    margin-left: 1050px;
+    margin-top: -140px;
+    color: black;
+    border: 5px solid transparent;
+}
+.index_22_1 {
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+    color: black;
+    justify-content: space-around;
+    border: 10px solid transparent;
+}
+#h3221 {
+    border: 10px solid transparent;
+    margin-left: 10px;
+    margin-top: -20px;
+}
+#images22 {
+    border: 0px;
+    border-radius: 50%;
+    width: 180px;
+    height: 140px;
+}
+#images221 {
+    border: 0px;
+    border-radius: 50%;
+    width: 180px;
+    margin-left: 60px;
+    height: 140px;
+}
+#images222 {
+    border: 0px;
+    border-radius: 50%;
+    width: 180px;
+    margin-left: 40px;
+    height: 140px;
+}
+.index_22_2 {
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+    color: black;
+    justify-content: space-around;
+    border: 10px solid transparent;
+}
+#h322 {
+    border: 0px solid transparent;
+    margin-top: -10px;
+}
+#images223 {
+    border: 0px;
+    border-radius: 50%;
+    width: 180px;
+    height: 140px;
+}
+#images224 {
+    border: 0px;
+    border-radius: 50%;
+    width: 180px;
+    height: 140px;
+    margin-left: 50px;
+}
+#images225 {
+    border: 0px;
+    border-radius: 50%;
+    width: 180px;
+    margin-left: 180px;
+    height: 140px;
+}
+#ptags4 {
+    margin-left: 190px;
+    margin-top: -135px;
+    color: black;
+    border: 10px solid transparent;
+    margin-right: 810px;
+}
+#ptags5 {
+    margin-left: 620px;
+    margin-top: -145px;
+    color: black;
+    border: 10px solid transparent;
+    margin-right: 400px;
+}
+#ptags6 {
+    margin-left: 1050px;
+    margin-top: -120px;
+    color: black;
+    border: 5px solid transparent;
+}
+
+.imagedivs {
+    display: flex;
+    justify-content: space-around;
+    border: 10px solid transparent;
+    background-color: transparent;
+}
+#index33 {
+    width: 200px;
+    height: 120px;
+}
+#index34 {
+    width: 200px;
+    height: 180px;
+    border: 0px;
+    border-radius: 50%;
+}
+#index35 {
+    width: 200px;
+    height: 100px;
+    border: 0px;
+    border-radius: 50%;
+}
+#index36 {
+    width: 200px;
+    height: 180px;
+    border: 0px;
+    border-radius: 50%;
+}
+.nine {
+    background-color: transparent;
+    color: gray;
+    margin-top: -100px;
+    margin-left: 100px;
+    font-family: Helvetica;
+    font-size: 24px;
+}
+.ten {
+    background-color: transparent;
+    color: gray;
+    margin-top: -125px;
+    margin-left: 375px;
+    font-family: Helvetica;
+    font-size: 24px;
+}
+.eleven {
+    background-color: transparent;
+    color: gray;
+    margin-top: -315px;
+    margin-left: 720px;
+    font-family: Helvetica;
+    font-size: 24px;
+}
+.twelve {
+    background-color: transparent;
+    color: gray;
+    margin-top: 45px;
+    margin-left: 1040px;
+    font-family: Helvetica;
+    font-size: 24px;
+}
+#high_school {
+    display: block;
+    margin-top: 200px;
+    width: 1225px;
+    height: auto;
+    border: 10px solid lightblue;
+
+}
+.index44 {
+    background-color: transparent;
+    color: black;
+    display: flex;
+    font-size: 24px;
+}

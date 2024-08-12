@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    background-color: navy;
+    color: lightblue;
+    padding: 15px;
+    margin: 15px;
+}
+.index55 {
+    background-color: transparent;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 40px;
+    margin-right: -40px;
+    font-size: 16px;
+}
+.divstext {
+    display: flex;
+    justify-content: space-around;
+}
+.divsimages {
+    display: flex;
+    justify-content: space-around;
+    border: 10px solid transparent;
+    height: 150px; 
+}
